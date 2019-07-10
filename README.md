@@ -7,5 +7,8 @@
 ### 我的： 最近播放列表，收藏列表
 
 # 播放器截图
-<img src="./img/music.gif" /> <img src="./img/play.gif" />
+<img src="./img/music.gif" /> 
 
+<img src="./img/play.gif" />
+
+<img src="./img/detail.gif" />
